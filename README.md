@@ -1,64 +1,71 @@
 # Hi, I'm Gastón 👋
 
-Frontend-focused developer with hands-on experience building real-world applications using **Angular** and **TypeScript**, and backend systems with **Django**.
+Frontend-focused developer building real-world applications with **Angular** and **TypeScript**, with experience delivering complete products from planning to production.
 
-I specialize in turning complex problems into clean, maintainable, and scalable solutions.  
-I value clarity, structure, and long-term maintainability over quick hacks.
+I focus on **clean architecture, reusable components, and scalable frontend systems**, not just UI.
 
 ---
 
-## 🧠 What I work with
+## 🧠 Tech Stack
 
 ### Frontend
-- Angular (standalone components, routing, forms)
+- Angular (standalone, signals, routing, forms)
 - TypeScript
-- HTML5 / CSS3
+- HTML / CSS
 - Bootstrap
 
 ### Backend
+- Symfony (PHP)
 - Django
-- Django REST Framework
+- REST APIs
 - JWT Authentication
 
-### Tools & Workflow
+### Tools
 - Git & GitHub
-- Docker (basic setups)
-- REST APIs
-- Linux environments
+- Docker
+- Linux
 
 ---
 
-## 🚀 Projects & Experience
+## 🚀 What I’ve built
 
-I’ve worked on multiple real-world oriented projects, including:
+- Dynamic **course landing platform** driven by JSON (fully reusable structure)
+- **Multi-tenant SaaS systems** (inventory, sales, business logic)
+- **Admin dashboards** and internal tools
+- **Session/usage tracking systems**
 
-- **Inventory & sales management systems**
-- **SaaS-style multi-tenant applications**
-- **Usage/session tracking systems**
-- **Frontend dashboards and admin panels**
-
-Most of my repositories reflect practical use cases rather than toy examples.
+I don’t build demo apps — I build things meant to be used.
 
 ---
 
-## 📚 Currently focusing on
+## 🧩 How I work
 
-- Deepening Angular best practices
-- Component architecture & reusability
-- Clean code and scalable frontend design
-- Improving frontend–backend integration
+- Plan before coding
+- Break features into small, clear tasks
+- Prioritize maintainability over shortcuts
+- Lead and coordinate small teams when needed
+
+---
+
+## 📈 Currently improving
+
+- Advanced Angular architecture
+- Component reusability patterns
+- Frontend scalability
+- System design thinking
 
 ---
 
 ## 🌍 About me
 
 - Based in **Vienna, Austria**
-- Working as an independent developer since 2019
-- Actively looking to grow in a **frontend / Angular-focused role**
+- Freelance developer since 2019
+- Experience leading small projects and coordinating development
+- Looking for a **Frontend / Angular role** to grow in a team environment
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/gaston-omar-lino-levy
+- LinkedIn: https://www.linkedin.com/in/gaston-omar-lino-levy  
 - Email: ggastlino@gmail.com
