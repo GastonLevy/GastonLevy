@@ -1,8 +1,8 @@
 # Hi, I'm Gastón 👋
 
-Frontend-focused developer building real-world applications with **Angular** and **TypeScript**, with experience delivering complete products from planning to production.
+Full-stack developer (**Symfony + Angular**) building real-world applications, with experience delivering complete products from planning to production.
 
-I focus on **clean architecture, reusable components, and scalable frontend systems**, not just UI.
+I focus on **clean architecture, reusable components, and scalable systems**, not just UI.
 
 ---
 
@@ -16,9 +16,12 @@ I focus on **clean architecture, reusable components, and scalable frontend syst
 
 ### Backend
 - Symfony (PHP)
-- Django
 - REST APIs
 - JWT Authentication
+
+### Other Experience
+- Django
+- Django REST Framework
 
 ### Tools
 - Git & GitHub
@@ -44,6 +47,13 @@ I don’t build demo apps — I build things meant to be used.
 - Break features into small, clear tasks
 - Prioritize maintainability over shortcuts
 - Lead and coordinate small teams when needed
+
+---
+
+## 🧩 Contributions
+
+- Contributed to Angular official documentation (docs improvement)  
+  → https://github.com/angular/angular
 
 ---
 
