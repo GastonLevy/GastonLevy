@@ -1,81 +1,152 @@
 # Hi, I'm Gastón 👋
 
-Full-stack developer (**Symfony + Angular**) building real-world applications, with experience delivering complete products from planning to production.
+Full Stack Developer focused on building production-ready web applications with Angular, Symfony, Docker, and Linux.
 
-I focus on **clean architecture, reusable components, and scalable systems**, not just UI.
+I enjoy taking projects from idea to production, from designing the architecture to building the application, deploying it, and maintaining the infrastructure behind it.
 
 ---
 
-## 🧠 Tech Stack
+# What I do
+
+- Build full-stack web applications
+- Design REST APIs
+- Develop modern Angular frontends
+- Build Symfony backends
+- Deploy applications with Docker
+- Configure Linux servers and reverse proxies
+- Design scalable architectures
+- Automate development workflows
+
+---
+
+# Tech Stack
 
 ### Frontend
-- Angular (standalone, signals, routing, forms)
+
+- Angular
 - TypeScript
-- HTML / CSS
+- Signals
+- Standalone Components
+- HTML
+- SCSS
 - Bootstrap
 
 ### Backend
-- Symfony (PHP)
+
+- Symfony
+- PHP
+- Doctrine
 - REST APIs
 - JWT Authentication
 
-### Other Experience
-- Django
-- Django REST Framework
+### Databases
 
-### Tools
-- Git & GitHub
+- MySQL
+
+### DevOps
+
 - Docker
+- Docker Compose
+- Nginx
+- GitHub Actions
 - Linux
+- Traefik
+
+### Other
+
+- Django
+- Python
+- MikroTik
+- Networking
 
 ---
 
-## 🚀 What I’ve built
+# Featured Projects
 
-- Dynamic **course landing platform** driven by JSON (fully reusable structure)
-- **Multi-tenant SaaS systems** (inventory, sales, business logic)
-- **Admin dashboards** and internal tools
-- **Session/usage tracking systems**
+### Beruki
 
-I don’t build demo apps — I build things meant to be used.
+Open-source ISP management platform built with Angular and Symfony.
 
----
+Features include:
 
-## 🧩 How I work
-
-- Plan before coding
-- Break features into small, clear tasks
-- Prioritize maintainability over shortcuts
-- Lead and coordinate small teams when needed
-
----
-
-## 🧩 Contributions
-
-- Contributed to Angular official documentation (docs improvement)  
-  → https://github.com/angular/angular
+- Customer management
+- Authentication & authorization
+- MikroTik integration
+- Network management
+- Docker-based architecture
+- JWT authentication
+- Role-based access
+- GitHub workflow
 
 ---
 
-## 📈 Currently improving
+### TiendaYaca
 
-- Advanced Angular architecture
-- Component reusability patterns
-- Frontend scalability
-- System design thinking
+Multi-tenant SaaS platform for business management.
 
----
-
-## 🌍 About me
-
-- Based in **Vienna, Austria**
-- Freelance developer since 2019
-- Experience leading small projects and coordinating development
-- Looking for a **Frontend / Angular role** to grow in a team environment
+- Inventory
+- Sales
+- Customers
+- Cash flow
+- Technical service
+- Docker deployment
+- Linux VPS
 
 ---
 
-## 📫 Contact
+### Pet Adoption Platform
 
-- LinkedIn: https://www.linkedin.com/in/gaston-omar-lino-levy  
+Team project where I acted as Team Lead and Backend Developer.
+
+- Symfony
+- EasyAdmin
+- GitHub Actions
+- CI/CD
+- Docker
+- Traefik
+
+---
+
+# Engineering Principles
+
+- Architecture before implementation
+- Small and maintainable Pull Requests
+- Convention-driven development
+- Clean and readable code
+- Automation over repetitive work
+- Documentation as part of the project
+
+---
+
+# Open Source
+
+- Contributor to Angular documentation
+- Maintaining personal open-source projects
+- Building tools focused on real-world usage
+
+---
+
+# Currently Learning
+
+- Advanced Angular
+- Software Architecture
+- Design Patterns
+- System Design
+- Testing
+- Performance Optimization
+
+---
+
+# About Me
+
+📍 Vienna, Austria
+
+I'm looking for opportunities as a Full Stack, Angular, or Symfony Developer where I can continue building production software while learning from experienced engineers.
+
+---
+
+# Contact
+
+- Portfolio: https://gastonlevy.com
+- LinkedIn: https://linkedin.com/in/gaston-omar-lino-levy
 - Email: ggastlino@gmail.com
