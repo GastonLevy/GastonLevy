@@ -1,150 +1,130 @@
-# Hi, I'm Gastón 👋
+# Hi, I'm Gastón Levy 👋
 
-Full Stack Developer specializing in **ASP.NET Core, Angular, Docker, and Linux infrastructure**.
+### Full Stack Developer | ASP.NET Core • Angular • Docker • Linux
 
-I build production-ready web applications from backend APIs and modern Angular frontends to Docker deployments, Linux servers, networking, and CI/CD pipelines.
+I'm a Full Stack Developer based in **Vienna, Austria** focused on building production-ready web applications.
 
----
-
-# What I Do
-
-- Build full-stack web applications
-- Design REST APIs
-- Build ASP.NET Core backends
-- Develop modern Angular frontends
-- Deploy applications with Docker
-- Configure Linux servers and reverse proxies
-- Design service-based architectures
+I enjoy working across the entire stack, from backend architecture and REST APIs to Angular frontends, Docker deployments, Linux servers and networking.
 
 ---
 
-# Tech Stack
+## 🚀 Current Focus
 
-## Backend
-
-- C#
 - ASP.NET Core
-- Entity Framework Core
-- xUnit
-- REST APIs
-- JWT Authentication
-
-## Frontend
-
 - Angular
-- TypeScript
-- Signals
-- Standalone Components
-- Bootstrap
-- SCSS
-
-## Databases
-
-- MySQL
-- SQL Server
-. Redis
-
-## DevOps
-
+- Clean Architecture
+- Integration Testing
 - Docker
-- Docker Compose
-- Linux
-- Nginx
-- GitHub Actions
-
-## Other
-
-- MikroTik
-- Networking
+- MikroTik API Integration
 
 ---
 
-# Featured Projects
+## 🛠 Tech Stack
 
-## OpenTaragui
+### Backend
 
-Backend platform built with ASP.NET Core for managing MikroTik devices and network infrastructure.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
 
-**Highlights**
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+---
+
+# ⭐ Featured Projects
+
+## 🚀 OpenTaragui
+
+ASP.NET Core backend for managing MikroTik devices and ISP infrastructure.
+
+### Highlights
 
 - REST API
 - Entity Framework Core
-- MySQL
-- Integration Testing
+- Integration Tests
 - Testcontainers
-- Encrypted credential storage
+- MySQL
+- Encrypted credentials
 - MikroTik RouterOS REST API
 
----
-
-## Beruki
-
-Open-source ISP management platform.
-
-- Customer management
-- Authentication & Authorization
-- MikroTik integration
-- Network management
-- Docker architecture
+➡️ **Repository**
+https://github.com/GastonLevy/OpenTaragui
 
 ---
 
-## Angular Course Engine
+## 🌐 Beruki
 
-Dynamic Angular application powered by JSON-driven content.
+Open-source ISP Management Platform.
 
 - Angular
-- Standalone Components
-- TypeScript
-- Bootstrap
-- Reusable architecture
+- Symfony
+- Docker
+- JWT Authentication
+- MikroTik Integration
 
 ---
 
-## Pet Adoption Platform
+## 📚 Angular Course Engine
 
-Team project where I acted as Team Lead and Backend Developer.
+Dynamic learning platform powered by JSON.
+
+- Angular
+- Signals
+- Standalone Components
+- Bootstrap
+
+---
+
+## 🐶 Pet Adoption Platform
+
+University team project.
+
+Role:
+
+- Team Lead
+- Backend Developer
+
+Stack:
 
 - Symfony
 - EasyAdmin
 - Docker
-- GitHub Actions
 - CI/CD
 
 ---
 
-# Engineering Principles
+# 📈 GitHub Stats
 
-- Architecture before implementation
-- Small and maintainable Pull Requests
-- Clean and readable code
-- Automation over repetitive work
-- Documentation as part of the project
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GastonLevy&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GastonLevy&layout=compact)
 
 ---
 
-# Current Focus
+# 📫 Contact
 
-- ASP.NET Core
-- Angular
-- Integration Testing
-- Software Architecture
-- Design Patterns
-- Docker
+🌐 Portfolio  
+https://gastonlevy.com
 
----
+💼 LinkedIn  
+https://linkedin.com/in/gaston-omar-lino-levy
 
-# About Me
-
-📍 Vienna, Austria
-
-I'm looking for opportunities as a **Full Stack Developer, .NET Backend Developer, or Angular Developer**, where I can build production software while continuing to learn from experienced engineers.
-
----
-
-# Contact
-
-- 🌐 Portfolio: https://gastonlevy.com
-- 💼 LinkedIn: https://linkedin.com/in/gaston-omar-lino-levy
-- 💻 GitHub: https://github.com/GastonLevy
-- 📧 Email: ggastlino@gmail.com
+📧 Email  
+ggastlino@gmail.com
