@@ -26,7 +26,14 @@ I enjoy working across the entire stack, from backend architecture and REST APIs
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GastonLevy&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GastonLevy&layout=compact)
 
 ### Frontend
 
@@ -107,14 +114,6 @@ Stack:
 - EasyAdmin
 - Docker
 - CI/CD
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GastonLevy&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GastonLevy&layout=compact)
 
 ---
 
