@@ -1,109 +1,120 @@
 # Hi, I'm Gastón 👋
 
-Full Stack Developer focused on building production-ready web applications with Angular, Symfony, Docker, and Linux.
+Full Stack Developer specializing in **ASP.NET Core, Angular, Docker, and Linux infrastructure**.
 
-I enjoy taking projects from idea to production, from designing the architecture to building the application, deploying it, and maintaining the infrastructure behind it.
+I build production-ready web applications from backend APIs and modern Angular frontends to Docker deployments, Linux servers, networking, and CI/CD pipelines.
 
 ---
 
-# What I do
+# What I Do
 
 - Build full-stack web applications
 - Design REST APIs
+- Build ASP.NET Core backends
 - Develop modern Angular frontends
-- Build Symfony backends
 - Deploy applications with Docker
 - Configure Linux servers and reverse proxies
-- Design scalable architectures
+- Design service-based architectures
 - Automate development workflows
 
 ---
 
 # Tech Stack
 
-### Frontend
+## Backend
+
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- xUnit
+- Testcontainers
+- Symfony
+- PHP
+- REST APIs
+- JWT Authentication
+
+## Frontend
 
 - Angular
 - TypeScript
 - Signals
 - Standalone Components
-- HTML
-- SCSS
 - Bootstrap
+- SCSS
 
-### Backend
-
-- Symfony
-- PHP
-- Doctrine
-- REST APIs
-- JWT Authentication
-
-### Databases
+## Databases
 
 - MySQL
+- SQL Server
 
-### DevOps
+## DevOps
 
 - Docker
 - Docker Compose
+- Linux
 - Nginx
 - GitHub Actions
-- Linux
-- Traefik
 
-### Other
+## Other
 
-- Django
-- Python
 - MikroTik
 - Networking
+- Python
+- Django
 
 ---
 
 # Featured Projects
 
-### Beruki
+## OpenTaragui
 
-Open-source ISP management platform built with Angular and Symfony.
+Backend platform built with ASP.NET Core for managing MikroTik devices and network infrastructure.
 
-Features include:
+**Highlights**
+
+- REST API
+- Entity Framework Core
+- MySQL
+- Integration Testing
+- Testcontainers
+- Encrypted credential storage
+- MikroTik RouterOS REST API
+
+---
+
+## Beruki
+
+Open-source ISP management platform.
 
 - Customer management
-- Authentication & authorization
+- Authentication & Authorization
 - MikroTik integration
 - Network management
-- Docker-based architecture
-- JWT authentication
-- Role-based access
-- GitHub workflow
+- Docker architecture
 
 ---
 
-### TiendaYaca
+## Angular Course Engine
 
-Multi-tenant SaaS platform for business management.
+Dynamic Angular application powered by JSON-driven content.
 
-- Inventory
-- Sales
-- Customers
-- Cash flow
-- Technical service
-- Docker deployment
-- Linux VPS
+- Angular
+- Standalone Components
+- TypeScript
+- Bootstrap
+- Reusable architecture
 
 ---
 
-### Pet Adoption Platform
+## Pet Adoption Platform
 
 Team project where I acted as Team Lead and Backend Developer.
 
 - Symfony
 - EasyAdmin
+- Docker
 - GitHub Actions
 - CI/CD
-- Docker
-- Traefik
 
 ---
 
@@ -111,29 +122,21 @@ Team project where I acted as Team Lead and Backend Developer.
 
 - Architecture before implementation
 - Small and maintainable Pull Requests
-- Convention-driven development
 - Clean and readable code
 - Automation over repetitive work
 - Documentation as part of the project
 
 ---
 
-# Open Source
+# Current Focus
 
-- Contributor to Angular documentation
-- Maintaining personal open-source projects
-- Building tools focused on real-world usage
-
----
-
-# Currently Learning
-
-- Advanced Angular
+- ASP.NET Core
+- Angular
+- Integration Testing
 - Software Architecture
 - Design Patterns
-- System Design
-- Testing
-- Performance Optimization
+- Docker
+- MikroTik REST API
 
 ---
 
@@ -141,12 +144,13 @@ Team project where I acted as Team Lead and Backend Developer.
 
 📍 Vienna, Austria
 
-I'm looking for opportunities as a Full Stack, Angular, or Symfony Developer where I can continue building production software while learning from experienced engineers.
+I'm looking for opportunities as a **Full Stack Developer, .NET Backend Developer, or Angular Developer**, where I can build production software while continuing to learn from experienced engineers.
 
 ---
 
 # Contact
 
-- Portfolio: https://gastonlevy.com
-- LinkedIn: https://linkedin.com/in/gaston-omar-lino-levy
-- Email: ggastlino@gmail.com
+- 🌐 Portfolio: https://gastonlevy.com
+- 💼 LinkedIn: https://linkedin.com/in/gaston-omar-lino-levy
+- 💻 GitHub: https://github.com/GastonLevy
+- 📧 Email: ggastlino@gmail.com
