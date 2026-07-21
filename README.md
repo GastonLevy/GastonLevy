@@ -15,7 +15,6 @@ I build production-ready web applications from backend APIs and modern Angular f
 - Deploy applications with Docker
 - Configure Linux servers and reverse proxies
 - Design service-based architectures
-- Automate development workflows
 
 ---
 
@@ -27,9 +26,6 @@ I build production-ready web applications from backend APIs and modern Angular f
 - ASP.NET Core
 - Entity Framework Core
 - xUnit
-- Testcontainers
-- Symfony
-- PHP
 - REST APIs
 - JWT Authentication
 
@@ -46,6 +42,7 @@ I build production-ready web applications from backend APIs and modern Angular f
 
 - MySQL
 - SQL Server
+. Redis
 
 ## DevOps
 
@@ -59,8 +56,6 @@ I build production-ready web applications from backend APIs and modern Angular f
 
 - MikroTik
 - Networking
-- Python
-- Django
 
 ---
 
@@ -136,7 +131,6 @@ Team project where I acted as Team Lead and Backend Developer.
 - Software Architecture
 - Design Patterns
 - Docker
-- MikroTik REST API
 
 ---
 
